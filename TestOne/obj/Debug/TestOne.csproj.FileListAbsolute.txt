@@ -51,3 +51,4 @@ O:\VS\Projects\TestOne\TestOne\bin\Newtonsoft.Json.xml
 O:\VS\Projects\TestOne\TestOne\obj\Debug\TestOne.csprojResolveAssemblyReference.cache
 O:\VS\Projects\TestOne\TestOne\obj\Debug\TestOne.dll
 O:\VS\Projects\TestOne\TestOne\obj\Debug\TestOne.pdb
+O:\VS\Projects\TestOne\TestOne\obj\Debug\TestOne.csproj.CoreCompileInputs.cache
